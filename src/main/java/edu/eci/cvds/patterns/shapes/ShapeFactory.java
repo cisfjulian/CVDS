@@ -6,7 +6,6 @@ public class ShapeFactory {
     public static Shape create(RegularShapeType type){
         switch (type){
             case Triangle:
-                ;
                 break;
         }
     }
